@@ -1,1 +1,2 @@
 # GitTestCmd
+plus gittestCmd-local
